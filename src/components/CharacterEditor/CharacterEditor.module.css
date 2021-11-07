@@ -32,3 +32,16 @@
 .controlColumn {
   width: 50%;
 }
+
+.maxWidthWrapper {
+  position: relative;
+}
+
+.perspectiveDecoration {
+  position: fixed;
+  height: 40%;
+  width: 100%;
+  top: 65%;
+  left: 0;
+  background-color: hsl(195deg, 20%, 86%);
+}
